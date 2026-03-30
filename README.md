@@ -61,4 +61,4 @@ This project uses basic Artificial Intelligence techniques such as:
 2. Download or clone this repository  
 
 ```bash
-git clone https://github.com/your-username/resume-ai-cli.git
+(https://github.com/matwasunil2-crypto/ai-resume-screening-cli.git)
