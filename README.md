@@ -3,8 +3,11 @@
 ## student profile
 
 **name: sunil matwa
+
 **registration no. : 25BCE10466
+
 **course:fundamentals of AI and ML
+
 
 ##  About the Project
 
