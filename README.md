@@ -1,5 +1,11 @@
 ##  AI Resume Screening System (CLI)
 
+## student profile
+
+**name: sunil matwa
+**registration no. : 25BCE10466
+**course:fundamentals of AI and ML
+
 ##  About the Project
 
 This project is a simple command-line based application developed as part of the Fundamentals of AI and ML course. The main idea behind this project is to automate the process of resume screening using basic AI concepts.
