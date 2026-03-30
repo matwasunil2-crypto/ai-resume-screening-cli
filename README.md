@@ -36,6 +36,17 @@ This project uses basic Artificial Intelligence techniques such as:
 - Rule-based scoring system
 - Simple classification (Selected / Consider / Rejected)
 
+##project structure
+
+resume-ai-cli/
+│
+├── main.py
+├── auth.py
+├── database.py
+├── ai_engine.py
+├── resumes.json
+├── users.json
+
 
 ##  Features
 
