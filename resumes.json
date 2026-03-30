@@ -1,0 +1,25 @@
+[
+    {
+        "name": "dheeraj",
+        "skills": [
+            "java'",
+            " 'python'",
+            " 'dsa'",
+            " 'ai ml'",
+            " 'cloud'",
+            " 'web dev']"
+        ],
+        "experience": 4
+    },
+    {
+        "name": "mangla",
+        "skills": [
+            "java",
+            "python",
+            "c++",
+            "dsa",
+            "ai ml "
+        ],
+        "experience": 4
+    }
+]
